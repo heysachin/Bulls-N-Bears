@@ -1,0 +1,4 @@
+TimeStamp,Activity,Stock,Quantity,Balance
+2018-11-10 01:53:14,Created Account,0,0,10000
+2018-11-10 01:53:52,Bought Stock - Elxi,2000,3,3700
+2018-11-10 02:04:23,Sold Stock - Elxi,2000,1,5600
